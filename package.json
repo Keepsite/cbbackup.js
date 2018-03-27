@@ -1,0 +1,24 @@
+{
+  "name": "cbbackup",
+  "version": "1.0.0",
+  "description": "Couchbase backup / restore tool",
+  "main": "lib/",
+  "repository": "https://github.com/Keepsite/cbbackup.js",
+  "author": "Michael Yin",
+  "license": "MIT",
+  "bin": {
+    "cbbackup": "./bin/cbbackup",
+    "cbrestore": "./bin/cbrestore"
+  },
+  "dependencies": {
+    "couchbase": "^2.4.5",
+    "filesize": "^3.6.1",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
