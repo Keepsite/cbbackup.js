@@ -1,6 +1,6 @@
 {
   "name": "cbbackup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Couchbase backup / restore tool",
   "main": "lib/",
   "repository": "https://github.com/Keepsite/cbbackup.js",
