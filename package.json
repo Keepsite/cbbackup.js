@@ -11,9 +11,9 @@
     "cbrestore": "./bin/cbrestore"
   },
   "dependencies": {
-    "couchbase": "^2.4.5",
-    "filesize": "^3.6.1",
-    "lodash": "^4.17.5"
+    "couchbase": "^2.6.5",
+    "filesize": "^4.1.2",
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
