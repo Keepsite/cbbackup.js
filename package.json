@@ -1,10 +1,10 @@
 {
   "name": "cbbackup",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Couchbase backup / restore tool",
   "main": "lib",
   "repository": "https://github.com/Keepsite/cbbackup.js",
-  "author": "Michael Yin",
+  "author": "Keepsite Software Ltd.",
   "license": "MIT",
   "bin": {
     "cbbackup": "./bin/cbbackup",
