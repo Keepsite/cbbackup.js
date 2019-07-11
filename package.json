@@ -11,14 +11,14 @@
     "cbrestore": "./bin/cbrestore"
   },
   "dependencies": {
-    "couchbase": "^2.6.5",
+    "couchbase": "https://github.com/Keepsite/couchnode/tarball/a3539141d82b02194bde6d39c4deffa476df420f",
     "filesize": "^4.1.2",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.14"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-import": "^2.9.0"
+    "eslint-plugin-import": "^2.18.0"
   }
 }
